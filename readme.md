@@ -8,7 +8,7 @@ if something does pop up its probably not important and you can ignore unless it
 So ,
 
 1. Download repo as a Zip
-2. Ensure Preset and all the mods are loaded
-3. Paste the Mission folder within your mpmission folder
+2. Extract the zip and Ensure Preset and all the mods are loaded
+3. Extract the Mission Folder and paste it inside your mpmission folder
 4. Go to Editor and make changes how ever you like
 5. Enjoy !!!
